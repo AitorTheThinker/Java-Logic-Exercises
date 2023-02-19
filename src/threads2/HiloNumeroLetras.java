@@ -1,4 +1,4 @@
-package threads.threads2;
+package threads2;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package threads.threads1;
+package threads1;
 
 public class MultithreadThing  extends Thread{
 private int threadNumber;
