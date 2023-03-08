@@ -8,6 +8,7 @@ public class AcademiaMain {
 	        Test t=new Test();
 	         
 	        try {
+	        	
 	            t.cargarFichero("preguntas-incorrecto.txt");
 	             
 	             t.realizarTest();

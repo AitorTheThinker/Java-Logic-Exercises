@@ -1,10 +1,10 @@
 package filosofos;
 
-public class Mesa {
+public class FilosofoMesaThread {
      
     private boolean[] tenedores;
      
-    public Mesa(int numTenedores){
+    public FilosofoMesaThread(int numTenedores){
         this.tenedores = new boolean[numTenedores];
     }
      
